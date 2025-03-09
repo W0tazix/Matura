@@ -3,60 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Browser</title>
+    <title>Przeglądarka plików</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
-        ul { list-style: none; padding: 0; }
-        li { margin: 10px 0; }
-        a { text-decoration: none; color: blue; }
+        :root { --bg-color: #121212; --text-color: #fff; --card-bg: #1e1e1e; --hover-bg: #2a2a2a; --btn-bg: #007bff; --btn-hover: #0056b3; }
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; background: var(--bg-color); color: var(--text-color); }
+        .container { max-width: 600px; margin: 0 auto; background: var(--card-bg); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); }
+        h1 { color: var(--btn-bg); font-size: 24px; margin-bottom: 5px; }
+        h2 { color: var(--text-color); font-size: 18px; margin-bottom: 20px; }
+        ul { list-style: none; padding: 0; margin: 20px 0; }
+        li { padding: 10px; background: var(--hover-bg); margin: 5px 0; border-radius: 5px; display: flex; align-items: center; justify-content: space-between; transition: 0.3s; }
+        li:hover { background: #333; }
+        a { text-decoration: none; color: var(--btn-bg); font-weight: bold; display: flex; align-items: center; flex-grow: 1; }
+        a:hover { text-decoration: underline; }
+        .icon { width: 24px; height: 24px; margin-right: 10px; }
+        button { background: var(--btn-bg); color: white; border: none; padding: 5px 10px; font-size: 14px; cursor: pointer; border-radius: 5px; }
+        button:hover { background: var(--btn-hover); }
+        #back-button { display: none; padding: 10px 15px; font-size: 16px; margin-bottom: 10px; }
+        .news { text-align: left; margin-top: 20px; background: var(--hover-bg); padding: 15px; border-radius: 10px; }
+        .news h2 { font-size: 16px; margin-bottom: 10px; }
+        .news ul { margin: 0; padding: 0; }
+        .news li { padding: 5px 0; font-size: 14px; }
     </style>
 </head>
 <body>
-    <h1>Lista plików</h1>
-    <button id="back-button" style="display:none;" onclick="goBack()">⬅ Wstecz</button>
-    <ul id="file-list">Ładowanie...</ul>
+    <div class="container">
+        <h1>📁 Wojciech Informatyka</h1>
+        <h2>Przeglądarka plików</h2>
+        <button id="back-button" onclick="goBack()">⬅ Wstecz</button>
+        <ul id="file-list">Ładowanie...</ul>
+
+        <div class="news">
+            <h2>📢 Aktualności</h2>
+            <ul id="news-list">Ładowanie zmian...</ul>
+        </div>
+    </div>
 
     <script>
-        const repoOwner = "W0tazix"; // Zmień na swój login GitHub
-        const repoName = "Matura"; // Nazwa repozytorium
-        let currentPath = "matura informatyka"; // Ścieżka do folderu
+        const repoOwner = "W0tazix";  
+        const repoName = "Matura";  
+        let currentPath = "matura informatyka";  
 
         const fileList = document.getElementById("file-list");
+        const newsList = document.getElementById("news-list");
         const backButton = document.getElementById("back-button");
 
         async function fetchFiles(path) {
             try {
                 const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}`);
                 if (!response.ok) throw new Error("Nie udało się pobrać plików.");
-
+                
                 const files = await response.json();
                 fileList.innerHTML = "";
 
-                if (path !== "matura informatyka") {
-                    backButton.style.display = "block";
-                } else {
-                    backButton.style.display = "none";
-                }
+                backButton.style.display = (path !== "matura informatyka") ? "block" : "none";
 
                 files.forEach(file => {
                     const li = document.createElement("li");
                     const a = document.createElement("a");
+                    const icon = document.createElement("img");
 
                     if (file.type === "dir") {
+                        icon.src = "https://cdn-icons-png.flaticon.com/128/716/716784.png";
                         a.href = "#";
-                        a.textContent = "📁 " + file.name;
+                        a.textContent = file.name;
                         a.onclick = () => navigateTo(file.path);
+
+                        const zipButton = document.createElement("button");
+                        zipButton.textContent = "⬇ Pobierz folder";
+                        zipButton.onclick = () => downloadFolder(file.path);
+
+                        const rightContainer = document.createElement("div");
+                        rightContainer.appendChild(zipButton);
+                        li.appendChild(a);
+                        li.appendChild(rightContainer);
                     } else {
+                        icon.src = "https://cdn-icons-png.flaticon.com/128/716/716792.png";
                         a.href = file.download_url;
-                        a.textContent = "📄 " + file.name;
+                        a.textContent = file.name;
                         a.target = "_blank";
+                        li.appendChild(a);
                     }
 
-                    li.appendChild(a);
+                    icon.classList.add("icon");
+                    a.prepend(icon);
                     fileList.appendChild(li);
                 });
             } catch (error) {
                 fileList.innerHTML = "Błąd ładowania plików.";
+                console.error(error);
+            }
+        }
+
+        async function fetchLatestCommits() {
+            try {
+                const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/commits`);
+                if (!response.ok) throw new Error("Nie udało się pobrać aktualizacji.");
+                
+                const commits = await response.json();
+                newsList.innerHTML = "";
+
+                commits.slice(0, 5).forEach(commit => {
+                    const li = document.createElement("li");
+                    const date = new Date(commit.commit.committer.date).toLocaleString();
+                    li.innerHTML = `<strong>${commit.commit.message}</strong> <br> <small>${date}</small>`;
+                    newsList.appendChild(li);
+                });
+            } catch (error) {
+                newsList.innerHTML = "Błąd ładowania aktualności.";
                 console.error(error);
             }
         }
@@ -68,12 +123,40 @@
 
         function goBack() {
             const pathParts = currentPath.split("/");
-            pathParts.pop(); // Usuń ostatni folder
+            pathParts.pop();
             currentPath = pathParts.join("/") || "matura informatyka";
             fetchFiles(currentPath);
         }
 
+        async function downloadFolder(path) {
+            const zip = new JSZip();
+            await fetchAndZipFiles(path, zip);
+            zip.generateAsync({ type: "blob" }).then(content => {
+                saveAs(content, `${path.split('/').pop()}.zip`);
+            });
+        }
+
+        async function fetchAndZipFiles(path, zipFolder) {
+            const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}`);
+            if (!response.ok) {
+                alert("Błąd pobierania folderu.");
+                return;
+            }
+            const files = await response.json();
+
+            for (const file of files) {
+                if (file.type === "dir") {
+                    const subFolder = zipFolder.folder(file.name);
+                    await fetchAndZipFiles(file.path, subFolder);
+                } else {
+                    const fileData = await fetch(file.download_url).then(res => res.blob());
+                    zipFolder.file(file.name, fileData);
+                }
+            }
+        }
+
         fetchFiles(currentPath);
+        fetchLatestCommits();
     </script>
 </body>
 </html>
