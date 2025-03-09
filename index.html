@@ -18,7 +18,7 @@
         a { text-decoration: none; color: var(--btn-bg); font-weight: bold; display: flex; align-items: center; flex-grow: 1; }
         a:hover { text-decoration: underline; }
         .icon { width: 24px; height: 24px; margin-right: 10px; }
-        button { background: var(--btn-bg); color: white; border: none; padding: 5px 10px; font-size: 14px; cursor: pointer; border-radius: 5px; }
+        button { background: var(--btn-bg); color: white; border: none; padding: 5px 10px; font-size: 14px; cursor: pointer; border-radius: 5px; margin-left: 10px; }
         button:hover { background: var(--btn-hover); }
         #back-button { display: none; padding: 10px 15px; font-size: 16px; margin-bottom: 10px; }
         .news { text-align: left; margin-top: 20px; background: var(--hover-bg); padding: 15px; border-radius: 10px; }
@@ -74,16 +74,20 @@
                         zipButton.textContent = "⬇ Pobierz folder";
                         zipButton.onclick = () => downloadFolder(file.path);
 
-                        const rightContainer = document.createElement("div");
-                        rightContainer.appendChild(zipButton);
                         li.appendChild(a);
-                        li.appendChild(rightContainer);
+                        li.appendChild(zipButton);
                     } else {
                         icon.src = "https://cdn-icons-png.flaticon.com/128/716/716792.png";
                         a.href = file.download_url;
                         a.textContent = file.name;
                         a.target = "_blank";
+
+                        const downloadButton = document.createElement("button");
+                        downloadButton.textContent = "⬇ Pobierz plik";
+                        downloadButton.onclick = () => window.open(file.download_url, "_blank");
+
                         li.appendChild(a);
+                        li.appendChild(downloadButton);
                     }
 
                     icon.classList.add("icon");
