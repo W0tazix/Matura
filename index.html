@@ -15,7 +15,7 @@
         ul { list-style: none; padding: 0; margin: 20px 0; }
         li { padding: 10px; background: var(--hover-bg); margin: 5px 0; border-radius: 5px; display: flex; align-items: center; justify-content: space-between; transition: 0.3s; }
         li:hover { background: #333; }
-        a { text-decoration: none; color: var(--btn-bg); font-weight: bold; flex-grow: 1; text-align: left; display: flex; align-items: center; }
+        a { text-decoration: none; color: var(--btn-bg); font-weight: bold; display: flex; align-items: center; flex-grow: 1; }
         a:hover { text-decoration: underline; }
         .icon { width: 24px; height: 24px; margin-right: 10px; }
         button { background: var(--btn-bg); color: white; border: none; padding: 5px 10px; font-size: 14px; cursor: pointer; border-radius: 5px; }
@@ -72,21 +72,22 @@
 
                         const zipButton = document.createElement("button");
                         zipButton.textContent = "⬇ Pobierz folder";
-                        zipButton.style.marginLeft = "auto";
-                        zipButton.style.display = "inline-block";
                         zipButton.onclick = () => downloadFolder(file.path);
-                        li.appendChild(zipButton);
 
+                        const rightContainer = document.createElement("div");
+                        rightContainer.appendChild(zipButton);
+                        li.appendChild(a);
+                        li.appendChild(rightContainer);
                     } else {
                         icon.src = "https://cdn-icons-png.flaticon.com/128/716/716792.png";
                         a.href = file.download_url;
                         a.textContent = file.name;
                         a.target = "_blank";
+                        li.appendChild(a);
                     }
 
                     icon.classList.add("icon");
                     a.prepend(icon);
-                    li.appendChild(a);
                     fileList.appendChild(li);
                 });
             } catch (error) {
