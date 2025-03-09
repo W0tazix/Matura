@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista plików - Matura Informatyka</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; text-align: center; }
+        h1 { color: #333; }
+        ul { list-style: none; padding: 0; }
+        li { padding: 10px; border-bottom: 1px solid #ddd; }
+        a { text-decoration: none; color: #007bff; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>Pliki - Matura Informatyka</h1>
+    <ul id="file-list">Ładowanie...</ul>
+
+    <script>
+        async function loadFiles() {
+            try {
+                const response = await fetch("/list-files");
+                const files = await response.json();
+
+                const fileList = document.getElementById("file-list");
+                fileList.innerHTML = "";
+
+                files.forEach(file => {
+                    const li = document.createElement("li");
+                    const a = document.createElement("a");
+                    a.href = `matura informatyka/${file}`;
+                    a.textContent = file;
+                    li.appendChild(a);
+                    fileList.appendChild(li);
+                });
+
+            } catch (error) {
+                document.getElementById("file-list").textContent = "Nie udało się załadować plików.";
+                console.error("Błąd ładowania plików:", error);
+            }
+        }
+
+        loadFiles();
+    </script>
+
+</body>
+</html>
