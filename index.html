@@ -18,32 +18,6 @@
     <h1>Pliki - Matura Informatyka</h1>
     <ul id="file-list">Ładowanie...</ul>
 
-    <script>
-        async function loadFiles() {
-            try {
-                const response = await fetch("/list-files");
-                const files = await response.json();
-
-                const fileList = document.getElementById("file-list");
-                fileList.innerHTML = "";
-
-                files.forEach(file => {
-                    const li = document.createElement("li");
-                    const a = document.createElement("a");
-                    a.href = `matura informatyka/${file}`;
-                    a.textContent = file;
-                    li.appendChild(a);
-                    fileList.appendChild(li);
-                });
-
-            } catch (error) {
-                document.getElementById("file-list").textContent = "Nie udało się załadować plików.";
-                console.error("Błąd ładowania plików:", error);
-            }
-        }
-
-        loadFiles();
-    </script>
-
+    <a href="/test_pages">Click here to view Folder</a>
 </body>
 </html>
