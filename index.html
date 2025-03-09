@@ -72,10 +72,9 @@
 
                         const zipButton = document.createElement("button");
                         zipButton.textContent = "⬇ Pobierz folder";
+                        zipButton.style.marginLeft = "auto";
+                        zipButton.style.display = "inline-block";
                         zipButton.onclick = () => downloadFolder(file.path);
-                        li.style.display = "flex"; // Ustawienie flexboxa na całe <li>
-                        li.style.alignItems = "center"; // Wyśrodkowanie w pionie
-                        zipButton.style.marginLeft = "auto"; // Przesunięcie przycisku na prawo
                         li.appendChild(zipButton);
 
                     } else {
