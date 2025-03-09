@@ -1,0 +1,1 @@
+ Liczb sk³adaj¹cych siê z co najwy¿ej dwóch bloków jest 10
