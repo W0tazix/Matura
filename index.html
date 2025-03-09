@@ -73,7 +73,11 @@
                         const zipButton = document.createElement("button");
                         zipButton.textContent = "⬇ Pobierz folder";
                         zipButton.onclick = () => downloadFolder(file.path);
+                        li.style.display = "flex"; // Ustawienie flexboxa na całe <li>
+                        li.style.alignItems = "center"; // Wyśrodkowanie w pionie
+                        zipButton.style.marginLeft = "auto"; // Przesunięcie przycisku na prawo
                         li.appendChild(zipButton);
+
                     } else {
                         icon.src = "https://cdn-icons-png.flaticon.com/128/716/716792.png";
                         a.href = file.download_url;
