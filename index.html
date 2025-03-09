@@ -38,7 +38,7 @@
         const repoName = "Matura";
         let currentPath = "matura informatyka";
         const fileList = document.getElementById("file-list");
-        const newsContent = document.getElementById("news-content");
+        const newsList = document.getElementById("news-list");
 
         async function fetchFiles(path) {
             const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}`);
