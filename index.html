@@ -5,16 +5,79 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>File Browser</title>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
-        ul { list-style: none; padding: 0; }
-        li { margin: 10px 0; }
-        a { text-decoration: none; color: blue; }
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            padding: 20px; 
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul { 
+            list-style: none; 
+            padding: 0; 
+            margin: 20px 0;
+        }
+        li { 
+            padding: 10px; 
+            background: #f9f9f9; 
+            margin: 5px 0;
+            border-radius: 5px;
+            transition: 0.3s;
+            display: flex;
+            align-items: center;
+        }
+        li:hover {
+            background: #e3e3e3;
+        }
+        a { 
+            text-decoration: none; 
+            color: #007bff; 
+            font-weight: bold;
+            flex-grow: 1;
+            text-align: left;
+            display: flex;
+            align-items: center;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+        }
+        #back-button {
+            display: none;
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        #back-button:hover {
+            background: #0056b3;
+        }
     </style>
 </head>
 <body>
-    <h1>Lista plików</h1>
-    <button id="back-button" style="display:none;" onclick="goBack()">⬅ Wstecz</button>
-    <ul id="file-list">Ładowanie...</ul>
+    <div class="container">
+        <h1>📂 Przeglądarka plików</h1>
+        <button id="back-button" onclick="goBack()">⬅ Wstecz</button>
+        <ul id="file-list">Ładowanie...</ul>
+    </div>
 
     <script>
         const repoOwner = "W0tazix"; // Zmień na swój login GitHub
@@ -41,17 +104,22 @@
                 files.forEach(file => {
                     const li = document.createElement("li");
                     const a = document.createElement("a");
+                    const icon = document.createElement("img");
 
                     if (file.type === "dir") {
+                        icon.src = "https://cdn-icons-png.flaticon.com/128/716/716784.png";
                         a.href = "#";
-                        a.textContent = "📁 " + file.name;
+                        a.textContent = file.name;
                         a.onclick = () => navigateTo(file.path);
                     } else {
+                        icon.src = "https://cdn-icons-png.flaticon.com/128/716/716792.png";
                         a.href = file.download_url;
-                        a.textContent = "📄 " + file.name;
+                        a.textContent = file.name;
                         a.target = "_blank";
                     }
 
+                    icon.classList.add("icon");
+                    a.prepend(icon);
                     li.appendChild(a);
                     fileList.appendChild(li);
                 });
