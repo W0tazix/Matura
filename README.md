@@ -1,6 +1,6 @@
 <p align="center"> 
   <br/>
-  <img src="/retro_computer_logo_with_text.png" alt="Matura Informatyka Wojciech" width="300"></a>
+  <img src="/logo.png" alt="Matura Informatyka Wojciech" width="300"></a>
   <br/>
 </p>
 ## **😎 Progress Maturalny 😎**
