@@ -14,8 +14,6 @@ n = int(input("podaj liczbe"))
 lista = [[0 for i in range(k)] for i in range(w)]
 licz = 0
 b = binarna(n)
-print(b)
-print(liczb)
 
 
 for wier in range(w):
@@ -27,5 +25,4 @@ for wier in range(w):
         else:
             lista[wier][kol] = b[licz]
             licz+=1
-print(lista)
 print(lista[w-1][k-1])
