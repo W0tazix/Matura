@@ -44,7 +44,8 @@
         <ul id="file-list">Ładowanie...</ul>
 		
 		
-		<div id="readme-content">Ładowanie...</div>
+		<div id="readme-content" style="text-align: left; padding: 20px; background: #1e1e1e; color: white; border-radius: 10px;">Ładowanie...</div>
+
 		
 
         <div class="news">
@@ -63,21 +64,18 @@
         const backButton = document.getElementById("back-button");
 		async function fetchReadme() {
 			try {
-				const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/readme`);
-				if (!response.ok) throw new Error("Nie udało się pobrać README.");
-
-				const data = await response.json();
-				const readmeContent = await fetch(data.download_url).then(res => res.text());
-
-				document.getElementById("readme-content").innerHTML = marked.parse(readmeContent);
-			} catch (error) {
-				document.getElementById("readme-content").innerText = "Błąd ładowania README.";
-				console.error(error);
+				const response = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/README.md`);
+				if (!response.ok) throw new Error("Nie udało się pobrać README.md");
+				
+				const markdown = await response.text();
+				const readmeContainer = document.getElementById("readme-content");
+				
+				readmeContainer.innerHTML = marked.parse(markdown);
+				} catch (error) {
+					console.error(error);
+					document.getElementById("readme-content").innerText = "Błąd ładowania README.md";
 			}
 		}
-
-
-
 
 
         async function fetchFiles(path) {
