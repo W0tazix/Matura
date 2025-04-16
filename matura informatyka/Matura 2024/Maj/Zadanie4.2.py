@@ -24,6 +24,3 @@ with open('liczby.txt') as f:
             
 liczby1 = sorted(liczby1)     
 print(liczby1[-100])
-            
-            
-        

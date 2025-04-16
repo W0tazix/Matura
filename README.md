@@ -27,19 +27,16 @@
   <img src="/todo1.png" alt="Matura Informatyka Wojciech" width="600"></a>
   <br/>
 </p>
-
 <p align="center"> 
   <br/>
   <img src="/todo2.png" alt="Matura Informatyka Wojciech" width="600"></a>
   <br/>
 </p>
-
 <p align="center"> 
   <br/>
   <img src="/todo3.png" alt="Matura Informatyka Wojciech" width="600"></a>
   <br/>
 </p>
-
 <p align="center"> 
   <br/>
   <img src="/todo4.png" alt="Matura Informatyka Wojciech" width="600"></a>

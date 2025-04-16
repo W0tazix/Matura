@@ -32,6 +32,5 @@ for liczba1 in liczby1:
             break
             
 print(wynik)
-            
-            
+          
         
