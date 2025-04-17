@@ -126,7 +126,7 @@
 | PR 2014 maj – Ferma                     | ⬜ Do zrobienia     |       |
 | PR 2015 maj – Demografia                | ⬜ Do zrobienia     |       |
 | PR 2016 stara maj – Doświadczenie       | ⬜ Do zrobienia     |       |
-| PR 2017 maj – Słodzik                   | ⬜ Do zrobienia     |       |
+| PR 2017 maj – Słodzik                   | ✅ Zrobione        |Nie wiem czemu tak długo zajął mi 5 podpunkt|
 | PR 2021 marzec – Telefony               | ✅ Zrobione        |trzeba liczyć dokładnie, sekundami (nie minutami)|
 | PR 2021 czerwiec – Wypożyczalnia        | ⬜ Do zrobienia     |       |
 
