@@ -27,23 +27,22 @@
 
 <hr>
 
-| Koncept                      | Stan               | Uwagi |
+| Podproblemy                     | Stan               | Uwagi |
 |:-----------------------------|:------------------:|:------|
-| Podproblemy                  | ⬜ Do zrobienia     |       |
 | Metody Połowienia            | ⬜ Do zrobienia     |       |
 | Podejście Zachłanne          | ⬜ Do zrobienia     |       |
 | Rekurencja                   | ⬜ Do zrobienia     |       |
 
-# 🟡 STRUKTURY I INNE
+## 🟡 STRUKTURY I INNE
 
-| Temat                        | Stan               | Uwagi |
+| Struktury                        | Stan               | Uwagi |
 |:-----------------------------|:------------------:|:------|
 | Listy i listy dwuwymiarowe  | ⬜ Do zrobienia     |       |
 | Słowniki                    | ⬜ Do zrobienia     |       |
 | Zbiory                      | ⬜ Do zrobienia     |       |
 | Złożoność czasowa           | ⬜ Do zrobienia     |       |
 
-# 🟠 ZNAJOMOŚĆ ZAPISU ALGORYTMU
+## 🟠 ZNAJOMOŚĆ ZAPISU ALGORYTMU
 
 | Algorytm                                         | Stan               | Uwagi |
 |:--------------------------------------------------|:------------------:|:------|
@@ -57,7 +56,7 @@
 | Szybkie potęgowanie iteracyjne/rekurencyjne      | ⬜ Do zrobienia     |       |
 | Rekurencyjne tworzenie fraktali                  | ⬜ Do zrobienia     |       |
 
-# 🟤 UŻYWANIE ALGORYTMÓW W PROBLEMACH
+## 🟤 UŻYWANIE ALGORYTMÓW W PROBLEMACH
 
 | Problem                                          | Stan               | Uwagi |
 |:--------------------------------------------------|:------------------:|:------|
@@ -66,7 +65,7 @@
 | Podciągi w ciągu (najdłuższy/niemalejący/itd.)   | ⬜ Do zrobienia     |       |
 | ONP – zamiana i obliczanie                       | ⬜ Do zrobienia     |       |
 
-# 🟣 WYJAŚNIENIE I PORÓWNANIE METOD / STRUKTUR
+## 🟣 WYJAŚNIENIE I PORÓWNANIE METOD / STRUKTUR
 
 | Temat                                                  | Stan               | Uwagi |
 |:--------------------------------------------------------|:------------------:|:------|
@@ -81,11 +80,11 @@
 
 <hr>
 
-#Python
+# Python
 
 <hr>
 
-# 🟢 Arkusze maturalne
+## 🟢 Arkusze maturalne
 
 | Arkusz                | Stan               | Uwagi |
 |:----------------------|:------------------:|:------|
@@ -98,7 +97,7 @@
 | PR 2015 maj – Słowa binarne | ⬜ Do zrobienia |  |
 | PR 2017 maj – Piksele | ⬜ Do zrobienia     |       |
 
-# 🟣 Zbiór Zadań CKE
+## 🟣 Zbiór Zadań CKE
 
 | Zestaw                        | Stan               | Uwagi |
 |:------------------------------|:------------------:|:------|
@@ -113,11 +112,11 @@
 
 <hr>
 
-## Excel
+# Excel
 
 <hr>
 
-# 🟢 Arkusze maturalne
+## 🟢 Arkusze maturalne
 
 | Arkusz                | Stan               | Uwagi |
 |:----------------------|:------------------:|:------|
@@ -128,10 +127,10 @@
 | PR 2015 maj – Demografia                | ⬜ Do zrobienia     |       |
 | PR 2016 stara maj – Doświadczenie       | ⬜ Do zrobienia     |       |
 | PR 2017 maj – Słodzik                   | ⬜ Do zrobienia     |       |
-| PR 2021 marzec – Telefony               | ✅ Zrobione        |Kluczem w zadaniu 5.4 jest to, że trzeba liczyć wszystko sekundami|
+| PR 2021 marzec – Telefony               | ✅ Zrobione        |trzeba liczyć dokładnie, sekundami (nie minutami)|
 | PR 2021 czerwiec – Wypożyczalnia        | ⬜ Do zrobienia     |       |
 
-# 🟣 Zbiór Zadań CKE
+## 🟣 Zbiór Zadań CKE
 
 | Zestaw              | Stan               | Uwagi |
 |:--------------------|:------------------:|:------|
@@ -140,11 +139,11 @@
 
 <hr>
 
-## Access
+# Access
 
 <hr>
 
-# 🟢 Arkusze maturalne
+## 🟢 Arkusze maturalne
 
 | Arkusz                      | Stan               | Uwagi |
 |:----------------------------|:------------------:|:------|
@@ -156,7 +155,7 @@
 | PR 2015 maj – Formuła 1         | ⬜ Do zrobienia     |       |
 | PR 2019 maj – Wymarzony dom     | ⬜ Do zrobienia     |       |
 
-# 🟣 Zbiór Zadań CKE – Access
+## 🟣 Zbiór Zadań CKE – Access
 
 | Zestaw                              | Stan               | Uwagi |
 |:------------------------------------|:------------------:|:------|
