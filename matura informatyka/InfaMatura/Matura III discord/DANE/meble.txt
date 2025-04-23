@@ -1,0 +1,151 @@
+id_mebla;nazwa;rodzaj;material
+1;NOITARBELEC;komoda;bambus
+2;ECNEREFNOC;pufa;tkanina
+3;TNEMYOLPME;lozko;sklejka
+4;REHTAFDNARG;regal;plastik
+5;EETNARAUG;komoda;stal
+6;ROTAREGIRFER;szafka;aluminium
+7;NOITACIDNI;komoda;rattan
+8;TNEMPOLEVED;biurko;stal
+9;NOITCAFSITAS;witryna;skora
+10;NOITCELES;szafka;sklejka
+11;ECNARAEPPA;szafa;plastik
+12;TNEMECALPER;szafka;beton
+13;ECNATSBUS;stol;sklejka
+14;NOITULOVER;biurko;beton
+15;EGATNAVDA;szafki nocne;stal
+16;ECNAMROFREP;witryna;drewno
+17;YGOLOHCYSP;regal;drewno
+18;NOITPECREP;stol;plastik
+19;NOITANIMAXE;regal;kamien naturalny
+20;MOORSSALC;szafka;drewno
+21;ERUDECORP;regal;beton
+22;NOITCELFER;szafki nocne;szklo
+23;TNEMETICXE;krzeslo;szklo
+24;YCNEGREME;regal;drewno
+25;NOITAGILBO;pufa;stal
+26;NOITIDNOC;regal;stal
+27;ERUTRAPED;komoda;skora
+28;NOITACILPPA;biurko;kamien naturalny
+29;NOSIRAPMOC;fotel;bambus
+30;TNEMTNIOPPA;komoda;plastik
+31;REHTOMDNARG;szafki nocne;beton
+32;GNIREENIGNE;krzeslo;drewno
+33;REGNESSAP;stol;plastik
+34;ECNACIFINGIS;stol;plastik
+35;PIHSNOITALER;szafa;drewno
+36;NOISUFNOC;biurko;beton
+37;YTILIBISSOP;szafa;szklo
+38;DNEIRFYOB;szafa;beton
+39;ECNEREFFID;szafki nocne;beton
+40;TEKRAMREPUS;biurko;plyta wiorowa
+41;ECNEIREPXE;komoda;stal
+42;ERUTARETIL;kanapa;kamien
+43;TNEMNORIVNE;komoda;drewno
+44;TNEMTRAPA;regal;kamien
+45;ERUTANGIS;regal;skora
+46;EETTIMMOC;szafa;plastik
+47;NOITINGOCER;biurko;plastik
+48;EVITAITINI;szafki nocne;plyta wiorowa
+49;ECNATROPMI;szafki nocne;bambus
+50;MSAISUHTNE;kanapa;kamien
+51;TNEMNREVOG;szafa;skora
+52;NOITNETTA;pufa;kamien
+53;TNEMEGANAM;biurko;drewno
+54;TNEMEVORPMI;witryna;drewno
+55;PIHSREBMEM;biurko;beton
+56;GNITEKRAM;pufa;rattan
+57;EGNELLAHC;kanapa;drewno
+58;NOITATUPER;fotel;stal
+59;NOITACINUMMOC;pufa;stal
+60;YTLUCIFFID;szafki nocne;kamien naturalny
+61;NOITNETNI;biurko;skora
+62;PIHSREDAEL;stol;stal
+63;ELBATEGEV;stolik;beton
+64;NOISNETXE;komoda;kamien naturalny
+65;NOITADNEMMOCER;kanapa;szklo
+66;TSILAICEPS;krzeslo;stal
+67;PIHSDNEIRF;krzeslo;beton
+68;ERUTAREPMET;biurko;stal
+69;ETAICOSSA;stolik;plyta wiorowa
+70;NOITITEPMOC;biurko;beton
+71;YTISREVINU;biurko;szklo
+72;ECNANETNIAM;biurko;drewno
+73;YTINUTROPPO;pufa;beton
+74;NOISSIMREP;szafki nocne;beton
+75;ECNEDIFNOC;lozko;drewno
+76;NOITPECER;biurko;tkanina
+77;ENILPICSID;szafka;rattan
+78;NOITCETORP;lozko;beton
+79;YTILIBISNOPSER;lozko;drewno
+80;THGILHGIH;biurko;beton
+81;NOITAMROFNI;szafka;plastik
+82;TNEMTRAPED;pufa;drewno
+83;NOITULLOP;stol;beton
+84;NOITANIGAMI;szafka;beton
+85;ECNEDNEPEDNI;krzeslo;drewno
+86;NOITPIRCSED;szafka;plyta wiorowa
+87;GNINNIGEB;witryna;beton
+88;NOITISNART;szafa;plastik
+89;YHPOSOLIHP;stol;rattan
+90;NOISNEMID;stolik;kamien
+91;NOONRETFA;biurko;plyta wiorowa
+92;SSENERAWA;stol;stal
+93;NOITAZINAGRO;fotel;drewno
+94;NOITARTSINIMDA;biurko;aluminium
+95;NOISULCNOC;krzeslo;stal
+96;ETADIDNAC;witryna;stal
+97;TNEMTSEVNI;stol;MDF
+98;DNUORGKCAB;krzeslo;beton
+99;ECNEUQESNOC;witryna;beton
+100;NOITATNESERP;witryna;bambus
+101;NOITPMUSSA;krzeslo;beton
+102;TNEMEERGA;pufa;stal
+103;NOITCARETNI;stol;skora
+104;MSICITIRC;krzeslo;skora
+105;NOITCUDORTNI;regal;MDF
+106;NOITALUPOP;lozko;plastik
+107;ELPICNIRP;fotel;skora
+108;YRTSIMEHC;lozko;drewno
+109;GNIDNATSREDNU;komoda;beton
+110;YRATERCES;lozko;szklo
+111;EREHPSOMTA;szafa;bambus
+112;NOITAIRAV;komoda;beton
+113;YCNEICIFFE;fotel;stal
+114;TNEMNIATRETNE;szafki nocne;beton
+115;DNEIRFLRIG;fotel;stal
+116;NOISSERPXE;lozko;plastik
+117;TNATSISSA;fotel;drewno
+118;ETTERAGIC;stol;plastik
+119;NAIROTSIH;szafa;MDF
+120;NOISSESSOP;komoda;plastik
+121;EGATNECREP;witryna;MDF
+122;NOITCURTSNOC;regal;aluminium
+123;NOITAITOGEN;pufa;tkanina
+124;NOITASREVNOC;fotel;sklejka
+125;TNEMERIUQER;szafa;kamien
+126;TNARUATSER;stolik;plastik
+127;TNEMHSILBATSE;stolik;stal
+128;RERUTCAFUNAM;szafki nocne;stal
+129;GNISITREVDA;krzeslo;beton
+130;NOISSUCSID;szafka;plastik
+131;TNEMPIUQE;lozko;beton
+132;NOITCEPSNI;stol;drewno
+133;NOISSERPMI;szafka;beton
+134;NOITCURTSNI;fotel;kamien naturalny
+135;NOITAREDISNOC;fotel;drewno
+136;NOITADNUOF;pufa;skora
+137;YTINUMMOC;fotel;rattan
+138;TNEMETATS;stol;beton
+139;EGDELWONK;pufa;beton
+140;TNEMNGISSA;lozko;rattan
+141;NOITUBIRTSID;biurko;beton
+142;ECNEREFERP;witryna;beton
+143;YTILANOSREP;pufa;sklejka
+144;WEIVRETNI;fotel;sklejka
+145;NOITAICOSSA;kanapa;stal
+146;NOITINIFED;komoda;beton
+147;EVITCEPSREP;pufa;beton
+148;NOITARAPERP;szafka;drewno
+149;DOOHDLIHC;komoda;stal
+150;NOITACUDE;fotel;drewno
