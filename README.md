@@ -29,16 +29,16 @@
 
 | Podproblemy                     | Stan               | Uwagi |
 |:-----------------------------|:------------------:|:------|
-| Metody Połowienia            | ⬜ Do zrobienia     |       |
-| Podejście Zachłanne          | ⬜ Do zrobienia     |       |
+| Metody Połowienia            | ✅ Zrobione         |       |
+| Podejście Zachłanne          | ✅ Zrobione         |       |
 | Rekurencja                   | ⬜ Do zrobienia     |       |
 
 ## 🟡 STRUKTURY I INNE
 
 | Struktury                        | Stan               | Uwagi |
 |:-----------------------------|:------------------:|:------|
-| Listy i listy dwuwymiarowe  | ⬜ Do zrobienia     |       |
-| Słowniki                    | ⬜ Do zrobienia     |       |
+| Listy i listy dwuwymiarowe  | ✅ Zrobione         |       |
+| Słowniki                    | ⬜ Do zrobienia      |       |
 | Zbiory                      | ⬜ Do zrobienia     |       |
 | Złożoność czasowa           | ⬜ Do zrobienia     |       |
 
@@ -47,7 +47,7 @@
 | Algorytm                                         | Stan               | Uwagi |
 |:--------------------------------------------------|:------------------:|:------|
 | Algorytm Euklidesa iteracyjnie/rekurencyjnie     | ⬜ Do zrobienia     |       |
-| Sito Eratostenesa (wyszukiwanie elementu)         | ⬜ Do zrobienia     |       |
+| Sito Eratostenesa (wyszukiwanie elementu)        | ⬜ Do zrobienia     |       |
 | Wyszukiwanie Max / Min elementu                  | ⬜ Do zrobienia     |       |
 | Sortowanie Przez Scalanie                        | ⬜ Do zrobienia     |       |
 | Wyznaczanie Miejsc Zerowych Metodą Połowienia    | ⬜ Do zrobienia     |       |
@@ -72,7 +72,7 @@
 | Wyszukiwanie: liniowo i przez połowienie               | ⬜ Do zrobienia     |       |
 | Rekurencja: ciągi, potęgowanie, sortowanie             | ⬜ Do zrobienia     |       |
 | Metoda dziel i zwyciężaj (np. max/min)                 | ⬜ Do zrobienia     |       |
-| Podejście zachłanne (np. reszta, najkrótsza droga)     | ⬜ Do zrobienia     |       |
+| Podejście zachłanne (np. reszta, najkrótsza droga)     | ✅ Zrobione         |       |
 | Programowanie dynamiczne (najdłuższy wspólny podciąg)  | ⬜ Do zrobienia     |       |
 | Szyfrowanie z kluczem publicznym i podpis elektroniczny| ⬜ Do zrobienia     |       |
 | Struktury dynamiczne: stos, kolejka, lista (ONP)       | ⬜ Do zrobienia     |       |
