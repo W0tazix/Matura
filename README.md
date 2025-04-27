@@ -38,7 +38,7 @@
 | Struktury                        | Stan               | Uwagi |
 |:-----------------------------|:------------------:|:------|
 | Listy i listy dwuwymiarowe  | ✅ Zrobione         |       |
-| Słowniki                    | ⬜ Do zrobienia      |       |
+| Słowniki                    | ✅ Zrobione         |       |
 | Zbiory                      | ⬜ Do zrobienia     |       |
 | Złożoność czasowa           | ⬜ Do zrobienia     |       |
 
@@ -153,7 +153,7 @@
 | PR 2012 maj – Tablice           | ⬜ Do zrobienia     |       |
 | PR 2014 maj – Przedszkolaki     | ⬜ Do zrobienia     |       |
 | PR 2015 maj – Formuła 1         | ⬜ Do zrobienia     |       |
-| PR 2019 maj – Wymarzony dom     | ⬜ Do zrobienia     |       |
+| PR 2019 maj – Perfumeria DlaWas | ❌Do dokończenia❌  |Podpunkt 2 i 5 do dokończenia|
 
 ## 🟣 Zbiór Zadań CKE – Access
 
