@@ -125,7 +125,7 @@
 | PR 2013 maj – Rezerwat przyrody żubry   | ⬜ Do zrobienia     |       |
 | PR 2014 maj – Ferma                     | ✅ Zrobione         |Trzeba uważać żeby nie pomylić pór dnia|
 | PR 2015 maj – Demografia                | ✅ Zrobione         |Czytanie do końca zadań jest ważne|
-| PR 2016 stara maj – Doświadczenie       | ⬜ Do zrobienia     |       |
+| PR 2016 stara maj – Doświadczenie       | ✅ Zrobione         |Uważać na zaokrąglenia, zmieniają wynik końcowy (procentowe po rozwinięciu menu są dokładniejsze)|
 | PR 2017 maj – Słodzik                   | ✅ Zrobione         |Nie wiem czemu tak długo zajął mi 5 podpunkt|
 | PR 2021 marzec – Telefony               | ✅ Zrobione         |trzeba liczyć dokładnie, sekundami (nie minutami)|
 | PR 2021 czerwiec – Wypożyczalnia        | ✅ Zrobione         |Nie było większych problemów|
@@ -149,8 +149,8 @@
 |:----------------------------|:------------------:|:------|
 | PP 2012 maj – Rekrutacja    | ⬜ Do zrobienia     |       |
 | PP 2015 maj – Konta bankowe | ⬜ Do zrobienia     |       |
-| PR 2011 maj – Wystawy psów      | ⬜ Do zrobienia     |       |
-| PR 2012 maj – Tablice           | ⬜ Do zrobienia     |       |
+| PR 2011 maj – Wystawy psów      | ✅ Zrobione         |Trzeba było dpisać nazwy pól samemu|
+| PR 2012 maj – Tablice           | ✅ Zrobione         |W jednym z podpunktów zaponniałem o jednym kryterium (czytaj dokładnie)|
 | PR 2014 maj – Przedszkolaki     | ✅ Zrobione         |Czytaj zadania do końca i sprawdzaj dwa razy czy dobrze przeczytałeś|
 | PR 2015 maj – Formuła 1         | ✅ Zrobione         |Sprawdź manualnie wynik jeśli nie jesteś pewien|
 | PR 2019 maj – Perfumeria DlaWas | ✅ Zrobione         |Wiecej kwerend = prościej, a można ich robić ile sie chce|
