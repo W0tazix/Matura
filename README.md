@@ -151,9 +151,9 @@
 | PP 2015 maj – Konta bankowe | ⬜ Do zrobienia     |       |
 | PR 2011 maj – Wystawy psów      | ⬜ Do zrobienia     |       |
 | PR 2012 maj – Tablice           | ⬜ Do zrobienia     |       |
-| PR 2014 maj – Przedszkolaki     | ⬜ Do zrobienia     |       |
-| PR 2015 maj – Formuła 1         | ⬜ Do zrobienia     |       |
-| PR 2019 maj – Perfumeria DlaWas | ❌Do dokończenia❌  |Podpunkt 2 i 5 do dokończenia|
+| PR 2014 maj – Przedszkolaki     | ✅ Zrobione         |Czytaj zadania do końca i sprawdzaj dwa razy czy dobrze przeczytałeś|
+| PR 2015 maj – Formuła 1         | ✅ Zrobione         |Sprawdź manualnie wynik jeśli nie jesteś pewien|
+| PR 2019 maj – Perfumeria DlaWas | ✅ Zrobione         |Wiecej kwerend = prościej, a można ich robić ile sie chce|
 
 ## 🟣 Zbiór Zadań CKE – Access
 
