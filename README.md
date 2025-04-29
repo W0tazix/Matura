@@ -31,7 +31,7 @@
 |:-----------------------------|:------------------:|:------|
 | Metody Połowienia            | ✅ Zrobione         |       |
 | Podejście Zachłanne          | ✅ Zrobione         |       |
-| Rekurencja                   | ⬜ Do zrobienia     |       |
+| Rekurencja                   | ✅ Zrobione         |       |
 
 ## 🟡 STRUKTURY I INNE
 
@@ -39,21 +39,21 @@
 |:-----------------------------|:------------------:|:------|
 | Listy i listy dwuwymiarowe  | ✅ Zrobione         |       |
 | Słowniki                    | ✅ Zrobione         |       |
-| Zbiory                      | ⬜ Do zrobienia     |       |
-| Złożoność czasowa           | ⬜ Do zrobienia     |       |
+| Zbiory                      | ✅ Zrobione         |       |
+| Złożoność czasowa           | ⬜ Do zrobienia     |  ???  |
 
 ## 🟠 ZNAJOMOŚĆ ZAPISU ALGORYTMU
 
 | Algorytm                                         | Stan               | Uwagi |
 |:--------------------------------------------------|:------------------:|:------|
-| Algorytm Euklidesa iteracyjnie/rekurencyjnie     | ⬜ Do zrobienia     |       |
+| Algorytm Euklidesa iteracyjnie/rekurencyjnie     | ✅ Zrobione         |       |
 | Sito Eratostenesa (wyszukiwanie elementu)        | ⬜ Do zrobienia     |       |
-| Wyszukiwanie Max / Min elementu                  | ⬜ Do zrobienia     |       |
-| Sortowanie Przez Scalanie                        | ⬜ Do zrobienia     |       |
-| Wyznaczanie Miejsc Zerowych Metodą Połowienia    | ⬜ Do zrobienia     |       |
-| Obliczanie pierwiastka kwadratowego              | ⬜ Do zrobienia     |       |
+| Wyszukiwanie Max / Min elementu                  | ✅ Zrobione         |       |
+| Sortowanie Przez Scalanie                        | ✅ Zrobione         |       |
+| Wyznaczanie Miejsc Zerowych Metodą Połowienia    | ✅ Zrobione         |       |
+| Obliczanie pierwiastka kwadratowego              | ✅ Zrobione         |       |
 | Schemat Hornera – wartość wielomianu             | ⬜ Do zrobienia     |       |
-| Szybkie potęgowanie iteracyjne/rekurencyjne      | ⬜ Do zrobienia     |       |
+| Szybkie potęgowanie iteracyjne/rekurencyjne      | ✅ Zrobione         |       |
 | Rekurencyjne tworzenie fraktali                  | ⬜ Do zrobienia     |       |
 
 ## 🟤 UŻYWANIE ALGORYTMÓW W PROBLEMACH
@@ -71,7 +71,7 @@
 |:--------------------------------------------------------|:------------------:|:------|
 | Wyszukiwanie: liniowo i przez połowienie               | ⬜ Do zrobienia     |       |
 | Rekurencja: ciągi, potęgowanie, sortowanie             | ⬜ Do zrobienia     |       |
-| Metoda dziel i zwyciężaj (np. max/min)                 | ⬜ Do zrobienia     |       |
+| Metoda dziel i zwyciężaj (np. max/min)                 | ✅ Zrobione         |       |
 | Podejście zachłanne (np. reszta, najkrótsza droga)     | ✅ Zrobione         |       |
 | Programowanie dynamiczne (najdłuższy wspólny podciąg)  | ⬜ Do zrobienia     |       |
 | Szyfrowanie z kluczem publicznym i podpis elektroniczny| ⬜ Do zrobienia     |       |
@@ -88,14 +88,14 @@
 
 | Arkusz                | Stan               | Uwagi |
 |:----------------------|:------------------:|:------|
-| PP 2011 maj – Hasła   | ⬜ Do zrobienia     |       |
-| PP 2012 maj – Cyfry   | ⬜ Do zrobienia     |       |
-| PP 2014 maj – Pary liczb | ⬜ Do zrobienia |       |
-| PR 2010 maj – Anagram | ⬜ Do zrobienia     |       |
-| PR 2012 maj – Szyfr   | ⬜ Do zrobienia     |       |
-| PR 2013 maj – Liczby  | ⬜ Do zrobienia     |       |
-| PR 2015 maj – Słowa binarne | ⬜ Do zrobienia |  |
-| PR 2017 maj – Piksele | ⬜ Do zrobienia     |       |
+| PP 2011 maj – Hasła          | ⬜ Do zrobienia     |       |
+| PP 2012 maj – Cyfry          | ⬜ Do zrobienia     |       |
+| PP 2014 maj – Pary liczb     | ⬜ Do zrobienia     |       |
+| PR 2010 maj – Anagram        | ⬜ Do zrobienia     |       |
+| PR 2012 maj – Szyfr          | ⬜ Do zrobienia     |       |
+| PR 2013 maj – Liczby         | ⬜ Do zrobienia     |       |
+| PR 2015 maj – Liczby binarne | ⬜ Do zrobienia     |       |
+| PR 2017 maj – Piksele        | ✅ Zrobione         |       |
 
 ## 🟣 Zbiór Zadań CKE
 
@@ -120,9 +120,9 @@
 
 | Arkusz                | Stan               | Uwagi |
 |:----------------------|:------------------:|:------|
-| PP 2014 maj – Działki | ⬜ Do zrobienia     |       |
-| PP 2015 maj – Fabryka samochodów | ⬜ Do zrobienia |       |
-| PR 2013 maj – Rezerwat przyrody żubry   | ⬜ Do zrobienia     |       |
+| PP 2014 maj – Działki                   | ⬜ Do zrobienia     |       |
+| PP 2015 maj – Fabryka samochodów        | ⬜ Do zrobienia     |       |
+| PR 2013 maj – Rezerwat przyrody żubry   | ✅ Zrobione         |Brak dokładności i chodzenie na skróty to problem|
 | PR 2014 maj – Ferma                     | ✅ Zrobione         |Trzeba uważać żeby nie pomylić pór dnia|
 | PR 2015 maj – Demografia                | ✅ Zrobione         |Czytanie do końca zadań jest ważne|
 | PR 2016 stara maj – Doświadczenie       | ✅ Zrobione         |Uważać na zaokrąglenia, zmieniają wynik końcowy (procentowe po rozwinięciu menu są dokładniejsze)|
@@ -134,7 +134,7 @@
 
 | Zestaw              | Stan               | Uwagi |
 |:--------------------|:------------------:|:------|
-| ZZ 82 – Piraci      | ⬜ Do zrobienia     |       |
+| ZZ 82 – Piraci         | ⬜ Do zrobienia  |       |
 | ZZ 83 – Wilki i Zające | ⬜ Do zrobienia  |       |
 
 <hr>
@@ -147,8 +147,8 @@
 
 | Arkusz                      | Stan               | Uwagi |
 |:----------------------------|:------------------:|:------|
-| PP 2012 maj – Rekrutacja    | ⬜ Do zrobienia     |       |
-| PP 2015 maj – Konta bankowe | ⬜ Do zrobienia     |       |
+| PP 2012 maj – Rekrutacja        | ⬜ Do zrobienia     |       |
+| PP 2015 maj – Konta bankowe     | ⬜ Do zrobienia     |       |
 | PR 2011 maj – Wystawy psów      | ✅ Zrobione         |Trzeba było dpisać nazwy pól samemu|
 | PR 2012 maj – Tablice           | ✅ Zrobione         |W jednym z podpunktów zaponniałem o jednym kryterium (czytaj dokładnie)|
 | PR 2014 maj – Przedszkolaki     | ✅ Zrobione         |Czytaj zadania do końca i sprawdzaj dwa razy czy dobrze przeczytałeś|
@@ -160,9 +160,9 @@
 | Zestaw                              | Stan               | Uwagi |
 |:------------------------------------|:------------------:|:------|
 | ZZ 98 – Dziennik ocen               | ⬜ Do zrobienia     |       |
-| ZZ 99 – Bezpieczeństwo w szkole    | ⬜ Do zrobienia     |       |
+| ZZ 99 – Bezpieczeństwo w szkole     | ⬜ Do zrobienia     |       |
 | ZZ 100 – E-learning                 | ⬜ Do zrobienia     |       |
-| ZZ 101 – Karta MaturaSport         | ⬜ Do zrobienia     |       |
-| ZZ 102 – Portal społecznościowy    | ⬜ Do zrobienia     |       |
+| ZZ 101 – Karta MaturaSport          | ⬜ Do zrobienia     |       |
+| ZZ 102 – Portal społecznościowy     | ⬜ Do zrobienia     |       |
 
 <hr>
