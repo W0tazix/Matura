@@ -94,7 +94,7 @@
 | PR 2010 maj – Anagram        | ⬜ Do zrobienia     |       |
 | PR 2012 maj – Szyfr          | ⬜ Do zrobienia     |       |
 | PR 2013 maj – Liczby         | ⬜ Do zrobienia     |       |
-| PR 2015 maj – Liczby binarne | ⬜ Do zrobienia     |       |
+| PR 2015 maj – Liczby binarne | ✅ Zrobione         |       |
 | PR 2017 maj – Piksele        | ✅ Zrobione         |       |
 
 ## 🟣 Zbiór Zadań CKE
