@@ -7,6 +7,7 @@
 > [!WARNING]
 > Work in progress!
 
+###Matura informatyka
 
 ## **😎 Progress Maturalny 😎**
 
@@ -166,3 +167,137 @@
 | ZZ 102 – Portal społecznościowy     | ⬜ Do zrobienia     |       |
 
 <hr>
+
+
+### Matura matematyka
+
+## 🧮 Algebra i rachunki
+
+| Temat                                                                 | Stan             | Uwagi |
+|:----------------------------------------------------------------------|:----------------:|:------|
+| Działania na liczbach rzeczywistych                                   | ✅ Zrobione       |       |
+| Własności potęg i pierwiastków                                        | ✅ Zrobione       |       |
+| Przedziały liczbowe                                                   | ✅ Zrobione       |       |
+| Interpretacja wartości bezwzględnej                                   | ✅ Zrobione       |       |
+| Logarytmy                                                             | ✅ Zrobione       |       |
+| Dowody arytmetyczne                                                   | ⬜ Do zrobienia   |       |
+| Wzory skróconego mnożenia                                             | ⬜ Do zrobienia   |       |
+| Wielomiany                                                            | ⬜ Do zrobienia   |       |
+| Wyrażenia wymierne                                                    | ⬜ Do zrobienia   |       |
+| Pierwiastki wymierne wielomianu i dzielenie przez dwumian              | ⬜ Do zrobienia   |       |
+| Wzory na sześciany                                                    | ⬜ Do zrobienia   |       |
+| Przekształcanie równań i nierówności                                  | ⬜ Do zrobienia   |       |
+| Równania i nierówności liniowe/kwadratowe                             | ⬜ Do zrobienia   |       |
+| Równania wielomianowe                                                 | ⬜ Do zrobienia   |       |
+| Równania wymierne                                                     | ⬜ Do zrobienia   |       |
+| Nierówności wielomianowe                                              | ⬜ Do zrobienia   |       |
+| Nierówności wymierne                                                  | ⬜ Do zrobienia   |       |
+| Równania i nierówności z wartością bezwzględną                         | ⬜ Do zrobienia   |       |
+| Układy równań liniowych                                               | ⬜ Do zrobienia   |       |
+| Układy równań w zadaniach tekstowych                                  | ⬜ Do zrobienia   |       |
+| Układy liniowo-kwadratowe                                             | ⬜ Do zrobienia   |       |
+| Układy dwóch równań kwadratowych                                      | ⬜ Do zrobienia   |       |
+
+## 📈 Funkcje i ciągi
+
+| Temat                            | Stan             | Uwagi |
+|:---------------------------------|:----------------:|:------|
+| Pojęcie funkcji                  | ⬜ Do zrobienia   |       |
+| Obliczanie wartości funkcji      | ⬜ Do zrobienia   |       |
+| Odczytywanie z wykresu/tabeli    | ⬜ Do zrobienia   |       |
+| Funkcja liniowa                  | ⬜ Do zrobienia   |       |
+| Funkcja kwadratowa               | ⬜ Do zrobienia   |       |
+| Ekstrema funkcji kwadratowej     | ⬜ Do zrobienia   |       |
+| Zastosowania funkcji             | ⬜ Do zrobienia   |       |
+| Przesunięcia i odbicia wykresu   | ⬜ Do zrobienia   |       |
+| Funkcje wykładnicza i logarytmiczna | ⬜ Do zrobienia |       |
+| Funkcja wartości bezwzględnej    | ⬜ Do zrobienia   |       |
+| Ciągi liczbowe – definicja       | ⬜ Do zrobienia   |       |
+| Monotoniczność ciągu             | ⬜ Do zrobienia   |       |
+| Ciągi arytmetyczne i geometryczne | ⬜ Do zrobienia  |       |
+| Zastosowanie ciągów              | ⬜ Do zrobienia   |       |
+| Granice ciągów                   | ⬜ Do zrobienia   |       |
+| Szeregi geometryczne             | ⬜ Do zrobienia   |       |
+
+## 📏 Trygonometria
+
+| Temat                                         | Stan             | Uwagi |
+|:----------------------------------------------|:----------------:|:------|
+| Definicje funkcji trygonometrycznych          | ⬜ Do zrobienia   |       |
+| Podstawowe tożsamości trygonometryczne        | ⬜ Do zrobienia   |       |
+| Twierdzenie cosinusów                         | ⬜ Do zrobienia   |       |
+| Twierdzenie sinusów                           | ⬜ Do zrobienia   |       |
+| Wzory sumy i różnicy kątów                    | ⬜ Do zrobienia   |       |
+| Rozwiązywanie równań trygonometrycznych       | ⬜ Do zrobienia   |       |
+| Miara łukowa (radiany)                        | ⬜ Do zrobienia   |       |
+| Wykresy funkcji trygonometrycznych            | ⬜ Do zrobienia   |       |
+| Okresowość i wzory redukcyjne                 | ⬜ Do zrobienia   |       |
+
+## 📐 Planimetria
+
+| Temat                                        | Stan             | Uwagi |
+|:---------------------------------------------|:----------------:|:------|
+| Własności okręgu                             | ⬜ Do zrobienia   |       |
+| Trójkąty a wysokości kątowe                  | ⬜ Do zrobienia   |       |
+| Wielokąty foremne                            | ⬜ Do zrobienia   |       |
+| Własności kątów i przekątnych                | ⬜ Do zrobienia   |       |
+| Własności kątów wpisanych i środkowych       | ⬜ Do zrobienia   |       |
+| Pole i obwód podobnych figur                 | ⬜ Do zrobienia   |       |
+| Twierdzenie Talesa                           | ⬜ Do zrobienia   |       |
+| Odwrotność twierdzenia Talesa                | ⬜ Do zrobienia   |       |
+| Podstawowe punkty trójkąta                   | ⬜ Do zrobienia   |       |
+| Zastosowania trygonometrii w geometrii       | ⬜ Do zrobienia   |       |
+| Czworokąty wpisane/opisane                   | ⬜ Do zrobienia   |       |
+| Dowody geometryczne                          | ⬜ Do zrobienia   |       |
+
+## 📏 Geometria analityczna
+
+| Temat                                            | Stan             | Uwagi |
+|:-------------------------------------------------|:----------------:|:------|
+| Położenie prostych                               | ⬜ Do zrobienia   |       |
+| Równanie prostej                                 | ⬜ Do zrobienia   |       |
+| Odległość punktu od prostej i między punktami    | ⬜ Do zrobienia   |       |
+| Równanie okręgu                                  | ⬜ Do zrobienia   |       |
+| Symetrie                                         | ⬜ Do zrobienia   |       |
+| Wektory                                          | ⬜ Do zrobienia   |       |
+| Prosta a okrąg/parabola                          | ⬜ Do zrobienia   |       |
+
+## 🏗️ Geometria przestrzenna (stereometria)
+
+| Temat                                           | Stan             | Uwagi |
+|:------------------------------------------------|:----------------:|:------|
+| Położenie prostych w przestrzeni                | ⬜ Do zrobienia   |       |
+| Kąt między prostą a płaszczyzną                 | ⬜ Do zrobienia   |       |
+| Kąty w graniastosłupach i ostrosłupach          | ⬜ Do zrobienia   |       |
+| Objętości i pola powierzchni                    | ⬜ Do zrobienia   |       |
+| Podobieństwo brył                               | ⬜ Do zrobienia   |       |
+| Twierdzenia przestrzenne                        | ⬜ Do zrobienia   |       |
+| Przekroje brył                                  | ⬜ Do zrobienia   |       |
+
+## 🎲 Kombinatoryka
+
+| Temat                         | Stan             | Uwagi |
+|:------------------------------|:----------------:|:------|
+| Zasady zliczania              | ⬜ Do zrobienia   |       |
+| Permutacje, kombinacje, wariacje | ⬜ Do zrobienia |       |
+| Symbol Newtona                | ⬜ Do zrobienia   |       |
+
+## 🎲 Rachunek prawdopodobieństwa i statystyka
+
+| Temat                          | Stan             | Uwagi |
+|:-------------------------------|:----------------:|:------|
+| Prawdopodobieństwo klasyczne   | ⬜ Do zrobienia   |       |
+| Średnie arytmetyczne           | ⬜ Do zrobienia   |       |
+| Odchylenie standardowe         | ⬜ Do zrobienia   |       |
+| Prawdopodobieństwo warunkowe   | ⬜ Do zrobienia   |       |
+| Schemat Bernoulliego            | ⬜ Do zrobienia   |       |
+
+## 🔧 Optymalizacja i rachunek różniczkowy
+
+| Temat                            | Stan             | Uwagi |
+|:---------------------------------|:----------------:|:------|
+| Optymalizacja bezpośrednia       | ⬜ Do zrobienia   |       |
+| Granice funkcji                  | ⬜ Do zrobienia   |       |
+| Pochodna funkcji                 | ⬜ Do zrobienia   |       |
+| Badanie monotoniczności          | ⬜ Do zrobienia   |       |
+| Optymalizacja z pochodną         | ⬜ Do zrobienia   |       |
