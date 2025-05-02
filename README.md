@@ -121,7 +121,7 @@
 | Arkusz                | Stan               | Uwagi |
 |:----------------------|:------------------:|:------|
 | PP 2014 maj – Działki                   | ⬜ Do zrobienia     |       |
-| PP 2015 maj – Fabryka samochodów        | ⬜ Do zrobienia     |       |
+| PP 2015 maj – Fabryka samochodów        | ✅ Zrobione         |Trzeba bardzo uważać przy tworzeniu danych bo może to zawalić całe zadanie|
 | PR 2013 maj – Rezerwat przyrody żubry   | ✅ Zrobione         |Brak dokładności i chodzenie na skróty to problem|
 | PR 2014 maj – Ferma                     | ✅ Zrobione         |Trzeba uważać żeby nie pomylić pór dnia|
 | PR 2015 maj – Demografia                | ✅ Zrobione         |Czytanie do końca zadań jest ważne|
