@@ -7,7 +7,7 @@
 > [!WARNING]
 > Work in progress!
 
-###Matura informatyka
+### Matura informatyka
 
 ## **😎 Progress Maturalny 😎**
 
@@ -169,7 +169,7 @@
 <hr>
 
 
-### Matura matematyka
+# Matura matematyka
 
 ## 🧮 Algebra i rachunki
 
@@ -301,3 +301,38 @@
 | Pochodna funkcji                 | ⬜ Do zrobienia   |       |
 | Badanie monotoniczności          | ⬜ Do zrobienia   |       |
 | Optymalizacja z pochodną         | ⬜ Do zrobienia   |       |
+
+# Matura Polski
+
+## 📚 Lektury z języka polskiego
+
+| Lektura / Autor / Fragment                                                 | Stan             | Uwagi |
+|:---------------------------------------------------------------------------|:----------------:|:------|
+| Biblia – Rodzaj, Hiob, Kohelet, Psalmy, Apokalipsa                         | ⬜ Do zrobienia   |       |
+| Jan Parandowski, *Mitologia*, cz. I Grecja                                 | ⬜ Do zrobienia   |       |
+| Homer, *Iliada* (fragmenty)                                                | ⬜ Do zrobienia   |       |
+| Sofokles, *Antygona*                                                       | ✅ Zrobione       |       |
+| *Lament świętokrzyski* (fragmenty)                                         | ✅ Zrobione       |       |
+| *Rozmowa Mistrza Polikarpa ze Śmiercią* (fragmenty)                        | ✅ Zrobione       |       |
+| *Pieśń o Rolandzie* (fragmenty)                                            | ⬜ Do zrobienia   |       |
+| William Szekspir, *Makbet*                                                 | ✅ Zrobione       |       |
+| Molier, *Skąpiec*                                                          | ✅ Zrobione       |       |
+| Ignacy Krasicki, wybrana satyra                                            | ⬜ Do zrobienia   |       |
+| Adam Mickiewicz, ballady, *Romantyczność*, *Dziady cz. III*                | ✅ Zrobione       |       |
+| Bolesław Prus, *Lalka*                                                     | ✅ Zrobione       |       |
+| Henryk Sienkiewicz, *Potop* (fragmenty)                                    | ⬜ Do zrobienia   |       |
+| Fiodor Dostojewski, *Zbrodnia i kara*                                      | ✅ Zrobione       |       |
+| Stanisław Wyspiański, *Wesele*                                             | ⬜ Do zrobienia   |       |
+| Władysław Reymont, *Chłopi* (fragmenty)                                    | ✅ Zrobione       |       |
+| Stefan Żeromski, *Przedwiośnie*                                            | ✅ Zrobione       |       |
+| Witold Gombrowicz, *Ferdydurke* (fragmenty)                                | ✅ Zrobione       |       |
+| Tadeusz Borowski, *Proszę państwa do gazu*                                 | ✅ Zrobione       |       |
+| Gustaw Herling-Grudziński, *Inny świat* (fragmenty)                        | ✅ Zrobione       |       |
+| Hanna Krall, *Zdążyć przed Panem Bogiem*                                   | ⬜ Do zrobienia   |       |
+| Albert Camus, *Dżuma*                                                      | ⬜ Do zrobienia   |       |
+| George Orwell, *Rok 1984*                                                  | ✅ Zrobione       |       |
+| Sławomir Mrożek, *Tango*                                                   | ✅ Zrobione       |       |
+| Marek Nowakowski, *Górą „Edek”* (*Prawo prerii*)                           | ✅ Zrobione       |       |
+| Andrzej Stasiuk, *Miejsce* (*Opowieści galicyjskie*)                       | ✅ Zrobione       |       |
+| Olga Tokarczuk, *Profesor Andrews w Warszawie* (*Gra na wielu bębenkach*)  | ✅ Zrobione       |       |
+| Ryszard Kapuściński, *Podróże z Herodotem* (fragmenty)                     | ⬜ Do zrobienia   |       |
