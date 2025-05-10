@@ -180,58 +180,57 @@
 | Przedziały liczbowe                                                   | ✅ Zrobione       |       |
 | Interpretacja wartości bezwzględnej                                   | ✅ Zrobione       |       |
 | Logarytmy                                                             | ✅ Zrobione       |       |
-| Dowody arytmetyczne                                                   | ⬜ Do zrobienia   |       |
-| Wzory skróconego mnożenia                                             | ⬜ Do zrobienia   |       |
-| Wielomiany                                                            | ⬜ Do zrobienia   |       |
-| Wyrażenia wymierne                                                    | ⬜ Do zrobienia   |       |
-| Pierwiastki wymierne wielomianu i dzielenie przez dwumian              | ⬜ Do zrobienia   |       |
-| Wzory na sześciany                                                    | ⬜ Do zrobienia   |       |
-| Przekształcanie równań i nierówności                                  | ⬜ Do zrobienia   |       |
-| Równania i nierówności liniowe/kwadratowe                             | ⬜ Do zrobienia   |       |
-| Równania wielomianowe                                                 | ⬜ Do zrobienia   |       |
-| Równania wymierne                                                     | ⬜ Do zrobienia   |       |
-| Nierówności wielomianowe                                              | ⬜ Do zrobienia   |       |
-| Nierówności wymierne                                                  | ⬜ Do zrobienia   |       |
-| Równania i nierówności z wartością bezwzględną                         | ⬜ Do zrobienia   |       |
-| Układy równań liniowych                                               | ⬜ Do zrobienia   |       |
-| Układy równań w zadaniach tekstowych                                  | ⬜ Do zrobienia   |       |
-| Układy liniowo-kwadratowe                                             | ⬜ Do zrobienia   |       |
-| Układy dwóch równań kwadratowych                                      | ⬜ Do zrobienia   |       |
+| Dowody arytmetyczne                                                   | ✅ Zrobione       |       |
+| Wielomiany                                                            | ✅ Zrobione       |       |
+| Wyrażenia wymierne                                                    | ✅ Zrobione       |       |
+| Pierwiastki wymierne wielomianu i dzielenie przez dwumian             | ⬜ Do zrobienia   |       |
+| Wzory na sześciany                                                    | ✅ Zrobione       |       |
+| Przekształcanie równań i nierówności                                  | ✅ Zrobione       |       |
+| Równania i nierówności liniowe/kwadratowe                             | ✅ Zrobione       |       |
+| Równania wielomianowe                                                 | ✅ Zrobione       |       |
+| Równania wymierne                                                     | ✅ Zrobione       |       |
+| Nierówności wielomianowe                                              | ✅ Zrobione       |       |
+| Nierówności wymierne                                                  | ✅ Zrobione       |       |
+| Równania i nierówności z wartością bezwzględną                        | ✅ Zrobione       |       |
+| Układy równań liniowych                                               | ✅ Zrobione       |       |
+| Układy równań w zadaniach tekstowych                                  | ✅ Zrobione       |       |
+| Układy liniowo-kwadratowe                                             | ✅ Zrobione       |       |
+| Układy dwóch równań kwadratowych                                      | ✅ Zrobione       |       |
 
 ## 📈 Funkcje i ciągi
 
 | Temat                            | Stan             | Uwagi |
 |:---------------------------------|:----------------:|:------|
-| Pojęcie funkcji                  | ⬜ Do zrobienia   |       |
-| Obliczanie wartości funkcji      | ⬜ Do zrobienia   |       |
-| Odczytywanie z wykresu/tabeli    | ⬜ Do zrobienia   |       |
-| Funkcja liniowa                  | ⬜ Do zrobienia   |       |
-| Funkcja kwadratowa               | ⬜ Do zrobienia   |       |
-| Ekstrema funkcji kwadratowej     | ⬜ Do zrobienia   |       |
-| Zastosowania funkcji             | ⬜ Do zrobienia   |       |
-| Przesunięcia i odbicia wykresu   | ⬜ Do zrobienia   |       |
-| Funkcje wykładnicza i logarytmiczna | ⬜ Do zrobienia |       |
-| Funkcja wartości bezwzględnej    | ⬜ Do zrobienia   |       |
-| Ciągi liczbowe – definicja       | ⬜ Do zrobienia   |       |
-| Monotoniczność ciągu             | ⬜ Do zrobienia   |       |
-| Ciągi arytmetyczne i geometryczne | ⬜ Do zrobienia  |       |
-| Zastosowanie ciągów              | ⬜ Do zrobienia   |       |
-| Granice ciągów                   | ⬜ Do zrobienia   |       |
-| Szeregi geometryczne             | ⬜ Do zrobienia   |       |
+| Pojęcie funkcji                     | ✅ Zrobione       |       |
+| Obliczanie wartości funkcji         | ✅ Zrobione       |       |
+| Odczytywanie z wykresu/tabeli       | ✅ Zrobione       |       |
+| Funkcja liniowa                     | ✅ Zrobione       |       |
+| Funkcja kwadratowa                  | ✅ Zrobione       |       |
+| Ekstrema funkcji kwadratowej        | ✅ Zrobione       |       |
+| Zastosowania funkcji                | ✅ Zrobione       |       |
+| Przesunięcia i odbicia wykresu      | ✅ Zrobione       |       |
+| Funkcje wykładnicza i logarytmiczna | ✅ Zrobione       |       |
+| Funkcja wartości bezwzględnej       | ⬜ Do zrobienia   |       |
+| Ciągi liczbowe – definicja          | ✅ Zrobione       |       |
+| Monotoniczność ciągu                | ✅ Zrobione       |       |
+| Ciągi arytmetyczne i geometryczne   | ✅ Zrobione       |       |
+| Zastosowanie ciągów                 | ✅ Zrobione       |       |
+| Granice ciągów                      | ⬜ Do zrobienia   |       |
+| Szeregi geometryczne                | ⬜ Do zrobienia   |       |
 
 ## 📏 Trygonometria
 
 | Temat                                         | Stan             | Uwagi |
 |:----------------------------------------------|:----------------:|:------|
-| Definicje funkcji trygonometrycznych          | ⬜ Do zrobienia   |       |
+| Definicje funkcji trygonometrycznych          | ✅ Zrobione       |       |
 | Podstawowe tożsamości trygonometryczne        | ⬜ Do zrobienia   |       |
-| Twierdzenie cosinusów                         | ⬜ Do zrobienia   |       |
-| Twierdzenie sinusów                           | ⬜ Do zrobienia   |       |
-| Wzory sumy i różnicy kątów                    | ⬜ Do zrobienia   |       |
-| Rozwiązywanie równań trygonometrycznych       | ⬜ Do zrobienia   |       |
+| Twierdzenie cosinusów                         | ✅ Zrobione       |       |
+| Twierdzenie sinusów                           | ✅ Zrobione       |       |
+| Wzory sumy i różnicy kątów                    | ✅ Zrobione       |       |
+| Rozwiązywanie równań trygonometrycznych       | ✅ Zrobione       |       |
 | Miara łukowa (radiany)                        | ⬜ Do zrobienia   |       |
-| Wykresy funkcji trygonometrycznych            | ⬜ Do zrobienia   |       |
-| Okresowość i wzory redukcyjne                 | ⬜ Do zrobienia   |       |
+| Wykresy funkcji trygonometrycznych            | ✅ Zrobione       |       |
+| Okresowość i wzory redukcyjne                 | ✅ Zrobione       |       |
 
 ## 📐 Planimetria
 
@@ -257,7 +256,7 @@
 | Położenie prostych                               | ⬜ Do zrobienia   |       |
 | Równanie prostej                                 | ⬜ Do zrobienia   |       |
 | Odległość punktu od prostej i między punktami    | ⬜ Do zrobienia   |       |
-| Równanie okręgu                                  | ⬜ Do zrobienia   |       |
+| Równanie okręgu                                  | ✅ Zrobione       |       |
 | Symetrie                                         | ⬜ Do zrobienia   |       |
 | Wektory                                          | ⬜ Do zrobienia   |       |
 | Prosta a okrąg/parabola                          | ⬜ Do zrobienia   |       |
@@ -278,19 +277,19 @@
 
 | Temat                         | Stan             | Uwagi |
 |:------------------------------|:----------------:|:------|
-| Zasady zliczania              | ⬜ Do zrobienia   |       |
-| Permutacje, kombinacje, wariacje | ⬜ Do zrobienia |       |
-| Symbol Newtona                | ⬜ Do zrobienia   |       |
+| Zasady zliczania                 | ✅ Zrobione       |       |
+| Permutacje, kombinacje, wariacje | ✅ Zrobione       |       |
+| Symbol Newtona                   | ✅ Zrobione       |       |
 
 ## 🎲 Rachunek prawdopodobieństwa i statystyka
 
 | Temat                          | Stan             | Uwagi |
 |:-------------------------------|:----------------:|:------|
-| Prawdopodobieństwo klasyczne   | ⬜ Do zrobienia   |       |
-| Średnie arytmetyczne           | ⬜ Do zrobienia   |       |
+| Prawdopodobieństwo klasyczne   | ✅ Zrobione       |       |
+| Średnie arytmetyczne           | ✅ Zrobione       |       |
 | Odchylenie standardowe         | ⬜ Do zrobienia   |       |
 | Prawdopodobieństwo warunkowe   | ⬜ Do zrobienia   |       |
-| Schemat Bernoulliego            | ⬜ Do zrobienia   |       |
+| Schemat Bernoulliego           | ✅ Zrobione       |       |
 
 ## 🔧 Optymalizacja i rachunek różniczkowy
 
@@ -298,9 +297,9 @@
 |:---------------------------------|:----------------:|:------|
 | Optymalizacja bezpośrednia       | ⬜ Do zrobienia   |       |
 | Granice funkcji                  | ⬜ Do zrobienia   |       |
-| Pochodna funkcji                 | ⬜ Do zrobienia   |       |
-| Badanie monotoniczności          | ⬜ Do zrobienia   |       |
-| Optymalizacja z pochodną         | ⬜ Do zrobienia   |       |
+| Pochodna funkcji                 | ✅ Zrobione       |       |
+| Badanie monotoniczności          | ✅ Zrobione       |       |
+| Optymalizacja z pochodną         | ✅ Zrobione       |       |
 
 # Matura Polski
 
