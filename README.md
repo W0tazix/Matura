@@ -183,7 +183,7 @@
 | Dowody arytmetyczne                                                   | ✅ Zrobione       |       |
 | Wielomiany                                                            | ✅ Zrobione       |       |
 | Wyrażenia wymierne                                                    | ✅ Zrobione       |       |
-| Pierwiastki wymierne wielomianu i dzielenie przez dwumian             | ⬜ Do zrobienia   |       |
+| Pierwiastki wymierne wielomianu i dzielenie przez dwumian             | ✅ Zrobione       |       |
 | Wzory na sześciany                                                    | ✅ Zrobione       |       |
 | Przekształcanie równań i nierówności                                  | ✅ Zrobione       |       |
 | Równania i nierówności liniowe/kwadratowe                             | ✅ Zrobione       |       |
@@ -210,20 +210,20 @@
 | Zastosowania funkcji                | ✅ Zrobione       |       |
 | Przesunięcia i odbicia wykresu      | ✅ Zrobione       |       |
 | Funkcje wykładnicza i logarytmiczna | ✅ Zrobione       |       |
-| Funkcja wartości bezwzględnej       | ⬜ Do zrobienia   |       |
+| Funkcja wartości bezwzględnej       | ✅ Zrobione       |       |
 | Ciągi liczbowe – definicja          | ✅ Zrobione       |       |
 | Monotoniczność ciągu                | ✅ Zrobione       |       |
 | Ciągi arytmetyczne i geometryczne   | ✅ Zrobione       |       |
 | Zastosowanie ciągów                 | ✅ Zrobione       |       |
-| Granice ciągów                      | ⬜ Do zrobienia   |       |
-| Szeregi geometryczne                | ⬜ Do zrobienia   |       |
+| Granice ciągów                      | ✅ Zrobione       |       |
+| Szeregi geometryczne                | ✅ Zrobione       |       |
 
 ## 📏 Trygonometria
 
 | Temat                                         | Stan             | Uwagi |
 |:----------------------------------------------|:----------------:|:------|
 | Definicje funkcji trygonometrycznych          | ✅ Zrobione       |       |
-| Podstawowe tożsamości trygonometryczne        | ⬜ Do zrobienia   |       |
+| Podstawowe tożsamości trygonometryczne        | ✅ Zrobione       |       |
 | Twierdzenie cosinusów                         | ✅ Zrobione       |       |
 | Twierdzenie sinusów                           | ✅ Zrobione       |       |
 | Wzory sumy i różnicy kątów                    | ✅ Zrobione       |       |
@@ -253,9 +253,9 @@
 
 | Temat                                            | Stan             | Uwagi |
 |:-------------------------------------------------|:----------------:|:------|
-| Położenie prostych                               | ⬜ Do zrobienia   |       |
-| Równanie prostej                                 | ⬜ Do zrobienia   |       |
-| Odległość punktu od prostej i między punktami    | ⬜ Do zrobienia   |       |
+| Położenie prostych                               | ✅ Zrobione       |       |
+| Równanie prostej                                 | ✅ Zrobione       |       |
+| Odległość punktu od prostej i między punktami    | ✅ Zrobione       |       |
 | Równanie okręgu                                  | ✅ Zrobione       |       |
 | Symetrie                                         | ⬜ Do zrobienia   |       |
 | Wektory                                          | ⬜ Do zrobienia   |       |
@@ -287,21 +287,21 @@
 |:-------------------------------|:----------------:|:------|
 | Prawdopodobieństwo klasyczne   | ✅ Zrobione       |       |
 | Średnie arytmetyczne           | ✅ Zrobione       |       |
-| Odchylenie standardowe         | ⬜ Do zrobienia   |       |
-| Prawdopodobieństwo warunkowe   | ⬜ Do zrobienia   |       |
+| Odchylenie standardowe         | ✅ Zrobione       |       |
+| Prawdopodobieństwo warunkowe   | ✅ Zrobione       |       |
 | Schemat Bernoulliego           | ✅ Zrobione       |       |
 
 ## 🔧 Optymalizacja i rachunek różniczkowy
 
 | Temat                            | Stan             | Uwagi |
 |:---------------------------------|:----------------:|:------|
-| Optymalizacja bezpośrednia       | ⬜ Do zrobienia   |       |
-| Granice funkcji                  | ⬜ Do zrobienia   |       |
+| Optymalizacja bezpośrednia       | ✅ Zrobione       |       |
+| Granice funkcji                  | ✅ Zrobione       |       |
 | Pochodna funkcji                 | ✅ Zrobione       |       |
 | Badanie monotoniczności          | ✅ Zrobione       |       |
 | Optymalizacja z pochodną         | ✅ Zrobione       |       |
 
-# Matura Polski
+# ✅✅✅ Matura Polski ✅✅✅
 
 ## 📚 Lektury z języka polskiego
 
