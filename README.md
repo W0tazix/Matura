@@ -335,3 +335,131 @@
 | Andrzej Stasiuk, *Miejsce* (*Opowieści galicyjskie*)                       | ✅ Zrobione       |       |
 | Olga Tokarczuk, *Profesor Andrews w Warszawie* (*Gra na wielu bębenkach*)  | ✅ Zrobione       |       |
 | Ryszard Kapuściński, *Podróże z Herodotem* (fragmenty)                     | ⬜ Do zrobienia   |       |
+
+
+
+# 📋 Lista zagadnień jawnych – ustna matura z języka polskiego 2025
+
+## 📖 Biblia (fragmenty)
+- [ ] 1. Motyw cierpienia niezawinionego – Księga Hioba
+- [ ] 2. Człowiek wobec niestałości świata – Księga Koheleta
+- [ ] 3. Wizja końca świata – Apokalipsa św. Jana
+
+## 🏛️ Jan Parandowski, *Mitologia* (cz. I Grecja)
+- [ ] 4. Poświęcenie się w imię wyższych wartości
+- [ ] 5. Problematyka winy i kary
+- [ ] 6. Miłość silniejsza niż śmierć
+
+## 🛡️ Homer, *Iliada (fragmenty)*
+- [ ] 7. Heroizm jako postawa człowieka w zmaganiu się z losem
+
+## 🎭 Sofokles, *Antygona*
+- [ ] 8. Konflikt racji moralnych
+- [ ] 9. Człowiek wobec przeznaczenia
+
+## ☠️ *Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty)*
+- [ ] 10. Motyw tańca śmierci
+
+## ⚔️ *Pieśń o Rolandzie (fragmenty)* 
+- [ ] 11. Średniowieczny etos rycerski
+
+## 👑 William Szekspir, *Makbet*
+- [ ] 12. Moralna odpowiedzialność za czyny
+- [ ] 13. Czy człowiek decyduje o własnym losie?
+- [ ] 14. Jaki wpływ na człowieka ma sprawowanie przez niego władzy?
+
+## 💰 Molier, *Skąpiec*
+- [ ] 15. Czy dobra materialne czynią człowieka szczęśliwym?
+- [ ] 16. Przyczyny nieporozumień między rodzicami a dziećmi
+
+## 🪞 Ignacy Krasicki, satyra
+- [ ] 17. Wady ludzkie w krzywym zwierciadle satyry
+
+## 🌙 Adam Mickiewicz, *Romantyczność* i ballady
+- [ ] 18. Świat ducha a świat rozumu – *Romantyczność*
+- [ ] 19. Jakie znaczenie dla człowieka ma przyroda? – ballady
+
+## 🔥 Adam Mickiewicz, *Dziady cz. III*
+- [ ] 20. Losy młodzieży polskiej pod zaborami
+- [ ] 21. Mesjanizm jako romantyczna idea poświęcenia
+- [ ] 22. Postawy społeczeństwa polskiego wobec zaborcy
+- [ ] 23. Różne postawy człowieka wobec Boga
+- [ ] 24. Jakie prawdy o człowieku ujawniają jego sny albo widzenia?
+- [ ] 25. W jakim celu twórca nawiązuje do motywów biblijnych?
+
+## 🧵 Bolesław Prus, *Lalka*
+- [ ] 26. Miłość – siła destrukcyjna czy motywująca do działania?
+- [ ] 27. Różne oblicza przyjaźni
+- [ ] 28. Praca jako pasja człowieka
+- [ ] 29. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie?
+- [ ] 30. Konfrontacja marzeń z rzeczywistością
+- [ ] 31. Cechy charakteru ułatwiające osiągnięcie celu
+- [ ] 32. Miasto – przestrzeń przyjazna czy wroga człowiekowi?
+
+## ⚔️ Henryk Sienkiewicz, *Potop (fragmenty)*
+- [ ] 33. Postawy odwagi i tchórzostwa
+
+## ⚖️ Fiodor Dostojewski, *Zbrodnia i kara*
+- [ ] 34. Walka człowieka ze swoimi słabościami
+- [ ] 35. Motyw winy i kary
+- [ ] 36. Ile człowiek jest gotów poświęcić dla innych?
+- [ ] 37. Co może determinować ludzkie postępowanie?
+
+## 🎩 Stanisław Wyspiański, *Wesele*
+- [ ] 38. Co utrudnia porozumienie między przedstawicielami różnych grup społecznych?
+- [ ] 39. Rola chłopów i inteligencji w sprawie niepodległościowej
+- [ ] 40. Sen o Polsce czy sąd nad Polską? 
+- [ ] 41. Symboliczne znaczenie widm i zjaw
+- [ ] 42. Motyw tańca
+
+## Władysław Stanisław Reymont, *Chłopi (fragmenty)*
+- [ ] 43. Obyczaj i tradycja w życiu społeczeństwa
+
+## Stefan Żeromski, *Przedwiośnie*
+- [ ] 44. Jakie znaczenie ma tytuł dla odczytania sensu utworu?
+- [ ] 45. Wojna i rewolucja jako źródła doświadczeń człowieka
+- [ ] 46. Różne wizje odbudowy Polski po odzyskaniu niepodległości
+- [ ] 47. Młodość jako czas kształtowania własnej tożsamości
+
+## Witold Gombrowicz, *Ferdydurke (fragmenty)*
+- [ ] 48. Groteskowy obraz świata
+- [ ] 49. Człowiek wobec presji otoczenia
+
+## Tadeusz Borowski, *Proszę państwa do gazu*
+- [ ] 50. „Człowiek zlagrowany” jako ofiara zbrodniczego systemu
+
+## Gustaw Herling-Grudziński, *Inny świat (fragmenty)*
+- [ ] 51. Jakie znaczenie ma tytuł dla odczytania sensu utworu?
+- [ ] 52. Konsekwencje zniewolenia człowieka
+
+## Hanna Krall, *Zdążyć przed Panem Bogiem*
+- [ ] 53. Czy możliwe jest zachowanie godności w skrajnych sytuacjach?
+- [ ] 54. Zagłada z perspektywy świadka i uczestnika wydarzeń w getcie
+
+## Albert Camus, *Dżuma*
+- [ ] 55. Co skłania człowieka do poświęceń?
+- [ ] 56. Człowiek wobec cierpienia i śmierci
+- [ ] 57. Czy możliwa jest przyjaźń w sytuacjach skrajnych?
+
+## George Orwell, *Rok 1984*
+- [ ] 58. Relacje międzyludzkie w rzeczywistości państwa totalitarnego
+- [ ] 59. Jak zachować wolność w państwie totalitarnym?
+- [ ] 60. Znaczenie propagandy w państwie totalitarnym
+- [ ] 61. Nowomowa jako sposób na ograniczenie wolności człowieka
+
+## Sławomir Mrożek, *Tango*
+- [ ] 62. Bunt przeciwko porządkowi społecznemu
+- [ ] 63. Problem upadku wartości
+- [ ] 64. Normy społeczne – ograniczają człowieka czy porządkują życie?
+
+## Marek Nowakowski, *Górą „Edek”*
+- [ ] 65. W jakim celu autor nawiązuje w swoim tekście do innego tekstu?
+
+## Andrzej Stasiuk, *Miejsce*
+- [ ] 66. Jaką wartość dla człowieka ma pamięć o przeszłości?
+
+## Olga Tokarczuk, *Profesor Andrews w Warszawie*
+- [X] 67. Stan wojenny z perspektywy obcokrajowca
+
+## Ryszard Kapuściński, *Podróże z Herodotem (fragmenty)*
+- [ ] 68. Czym dla człowieka może być podróżowanie?
