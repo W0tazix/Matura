@@ -388,13 +388,13 @@
 - [ ] 25. W jakim celu twórca nawiązuje do motywów biblijnych?
 
 ## 🧵 Bolesław Prus, *Lalka*
-- [ ] 26. Miłość – siła destrukcyjna czy motywująca do działania?
-- [ ] 27. Różne oblicza przyjaźni
-- [ ] 28. Praca jako pasja człowieka
-- [ ] 29. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie?
+- [X] 26. Miłość – siła destrukcyjna czy motywująca do działania?
+- [X] 27. Różne oblicza przyjaźni (Brak kontekstu)
+- [X] 28. Praca jako pasja człowieka
+- [X] 29. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie? (Brak kontekstu)
 - [ ] 30. Konfrontacja marzeń z rzeczywistością
-- [ ] 31. Cechy charakteru ułatwiające osiągnięcie celu
-- [ ] 32. Miasto – przestrzeń przyjazna czy wroga człowiekowi?
+- [X] 31. Cechy charakteru ułatwiające osiągnięcie celu (Brak kontekstu)
+- [X] 32. Miasto – przestrzeń przyjazna czy wroga człowiekowi?
 
 ## ⚔️ Henryk Sienkiewicz, *Potop (fragmenty)*
 - [ ] 33. Postawy odwagi i tchórzostwa
