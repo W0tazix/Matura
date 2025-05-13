@@ -168,6 +168,7 @@
 
 <hr>
 
+<!-- 
 
 # Matura matematyka
 
@@ -300,4 +301,4 @@
 | Pochodna funkcji                 | ✅ Zrobione       |       |
 | Badanie monotoniczności          | ✅ Zrobione       |       |
 | Optymalizacja z pochodną         | ✅ Zrobione       |       |
-
+-->
