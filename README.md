@@ -168,6 +168,29 @@
 
 <hr>
 
+Ostatnie notatki przed egzaminem
+
+Przydatne funkcje na mature w pythonie:
+
+math.gcd - Największy Wspólny Dzielnik
+math.lcm - Najmniejsza Wspólna Wielokrotność
+math.ceil - zaokrągla do góry
+math.floor - zaorkągla w dół
+itertools.permutations - daje permutacje
+jeśli chcemy wyświetlić permutacje musimy dać to w list()
+.split("sep") - dzieli tekst na liste przy użyciu dowolnego znaku
+"sep".join(lista) - łączy liste w stringa
+.replace(old,new,count) - zamienia elementy listy
+.find() - znajduje podciąg w stringu i podaje jego początek
+.count() - liczy ile razy znajduje się podciąg w ciągu
+.startswith  .endswith - chyba każdy wie o co chodzi
+.isalpha - sprawdza czy są tylko litery
+zip(a,b) - paruje dwie listy a i b i dostajemy krotki np Ala,18 zbyszek,16 z dwóch list imion i lat
+
+
+
+
+
 <!-- 
 
 # Matura matematyka
