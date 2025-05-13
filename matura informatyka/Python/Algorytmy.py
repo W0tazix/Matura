@@ -23,7 +23,7 @@ def nwd2(a,b):
         return a
     else:
         return b
-    
+
 # Można też w sposób rekurencyjny
 
 def nwd3(a,b):
@@ -31,6 +31,23 @@ def nwd3(a,b):
         return a
     else:
         return nwd3(b,a%b)
+
+# Sito Erastotenesa
+# Chuj wie o co tu chodzi
+def sito(n):
+    numbers = [True for _ in range(n)]
+    primers = []
+    for i in range(len(numbers)):
+        if i <= 1:
+            numbers[i] = False
+        else:
+            if numbers[i] == True:
+                primers.append(i)
+                for j in range(i,len(numbers),i):
+                    numbers[j] = False
+    return primers
+
+print(f'sito {sito(15)}')
 
 
 # Wyszukiwanie max/min
@@ -95,7 +112,7 @@ def miejsce_zerowe(a, b, epsilon): # a i b to skrajne miejsca naszego zakresu po
         return None  # Funkcja nie zmienia znaku – metoda nie zadziała
     while abs(b - a) > epsilon: # Sprawdzamy czy różnica jest większa od błędu
         c = (a + b) / 2 # Dzielimy na pół zakres poszukiwań
-        if f(c) == 0: 
+        if f(c) == 0:
             return c
         elif f(a) * f(c) < 0: # Sprawdzamy z której strony mamy obciąć nasz zakres na pół
             b = c
