@@ -341,7 +341,7 @@
 # 📋 Lista zagadnień jawnych – ustna matura z języka polskiego 2025
 
 ## 📖 Biblia (fragmenty)
-- [ ] 1. Motyw cierpienia niezawinionego – Księga Hioba
+- [X] 1. Motyw cierpienia niezawinionego – Księga Hioba
 - [ ] 2. Człowiek wobec niestałości świata – Księga Koheleta
 - [ ] 3. Wizja końca świata – Apokalipsa św. Jana
 
@@ -453,7 +453,7 @@
 - [ ] 64. Normy społeczne – ograniczają człowieka czy porządkują życie?
 
 ## Marek Nowakowski, *Górą „Edek”*
-- [ ] 65. W jakim celu autor nawiązuje w swoim tekście do innego tekstu?
+- [X] 65. W jakim celu autor nawiązuje w swoim tekście do innego tekstu?
 
 ## Andrzej Stasiuk, *Miejsce*
 - [ ] 66. Jaką wartość dla człowieka ma pamięć o przeszłości?
